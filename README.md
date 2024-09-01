@@ -16,10 +16,10 @@ This course contains lots of challenges for Go, each challenge is a small Go pro
 |      03 | 🎯 Golang Variable Manipulation                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15447'>Start Challenge</a> |
 |      04 | 🎯 Hello World, Golang!                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15400'>Start Challenge</a> |
 |      05 | 🎯 Golang String Formatting                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15431'>Start Challenge</a> |
-|      06 | 🎯 Mastering Golang String Manipulation                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15432'>Start Challenge</a> |
+|      06 | 🎯 Golang String Manipulation                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15432'>Start Challenge</a> |
 |      07 | 🎯 Strings and Runes (Challenge)                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15433'>Start Challenge</a> |
 |      08 | 🎯 Array Manipulation in Go                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15373'>Start Challenge</a> |
-|      09 | 🎯 Mastering Go Slice Data Type                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15426'>Start Challenge</a> |
+|      09 | 🎯 Go Slice Data Type                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15426'>Start Challenge</a> |
 |      10 | 🎯 Creating and Manipulating Go Maps (Challenge)         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15407'>Start Challenge</a> |
 |      11 | 🎯 Go Struct Data Grouping                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15435'>Start Challenge</a> |
 |      12 | 🎯 Golang Pointers Challenge: Understanding Reference... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15414'>Start Challenge</a> |
@@ -28,7 +28,7 @@ This course contains lots of challenges for Go, each challenge is a small Go pro
 |      15 | 🎯 Concise Introduction to Switch Statement              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15436'>Start Challenge</a> |
 |      16 | 🎯 Go Functions Fundamentals                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15397'>Start Challenge</a> |
 |      17 | 🎯 Multiple Return Values (Challenge)                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15409'>Start Challenge</a> |
-|      18 | 🎯 Mastering Variadic Functions in Go                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15448'>Start Challenge</a> |
+|      18 | 🎯 Variadic Functions in Go                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15448'>Start Challenge</a> |
 |      19 | 🎯 Go Programming Method                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15408'>Start Challenge</a> |
 |      20 | 🎯 Golang Interface Exploration                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15404'>Start Challenge</a> |
 |      21 | 🎯 Embedding Structs in Golang                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15434'>Start Challenge</a> |
@@ -83,7 +83,7 @@ This course contains lots of challenges for Go, each challenge is a small Go pro
 |      70 | 🎯 Command-Line Argument Handling in Go (Challenge)      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15382'>Start Challenge</a> |
 |      71 | 🎯 Command-Line Flag Parsing in Golang                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15383'>Start Challenge</a> |
 |      72 | 🎯 Command Line Subcommands (Challenge)                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15384'>Start Challenge</a> |
-|      73 | 🎯 Mastering Unix Environment Variables                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15390'>Start Challenge</a> |
+|      73 | 🎯 Unix Environment Variables                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15390'>Start Challenge</a> |
 |      74 | 🎯 Golang HTTP Request Handling (Challenge)              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15401'>Start Challenge</a> |
 |      75 | 🎯 Build Basic HTTP Server in Go                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15402'>Start Challenge</a> |
 |      76 | 🎯 Golang Context Cancellation Demonstration (Challen... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15386'>Start Challenge</a> |
