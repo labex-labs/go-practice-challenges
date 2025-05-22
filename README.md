@@ -1,6 +1,6 @@
 # Go Practice Challenges
 
-[![Go Practice Challenges](https://cover-creator.appbot.io/go-practice-challenges.png)](https://labex.io/courses/go-practice-challenges)
+[![Go Practice Challenges](https://cover-creator.labex.io/go-practice-challenges.png)](https://labex.io/courses/go-practice-challenges)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/go-practice-challenges)
 
@@ -15,7 +15,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -25,9 +25,9 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                    | Difficulty   | Practice                                                                                                                                |
-|---------|---------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 🎯 Go Fundamentals Value Types                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/go-go-fundamentals-value-types-15446'>Start Challenge</a>                                |
+|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                |
+|---------|----------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 🎯 Go Fundamentals Value Types                           | ★★★          | <a target='_blank' href='https://labex.io/labs/go-go-fundamentals-value-types-15446'>Start Challenge</a>                                |
 |      02 | 🎯 Golang Constants Programming Challenge                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/go-golang-constants-programming-challenge-15385'>Start Challenge</a>                     |
 |      03 | 🎯 Golang Variable Manipulation                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/go-golang-variable-manipulation-15447'>Start Challenge</a>                               |
 |      04 | 🎯 Hello World, Golang!                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/go-hello-world-golang-15400'>Start Challenge</a>                                         |
