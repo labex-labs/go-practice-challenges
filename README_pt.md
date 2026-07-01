@@ -1,25 +1,75 @@
 # Desafios práticos de Golang
 
-## Idiomas
+**Idiomas:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/0xUjcSwLZA3p.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/pt/learn/go">
+    <img width="128" src="https://file.labex.io/upload/u/1991/0xUjcSwLZA3p.png" alt="Golang">
+  </a>
+</p>
 
 Aprenda Golang com este caminho de aprendizagem estruturado, concebido para iniciantes. Estes cursos abrangentes de Golang oferecem uma forma sistemática de dominar a moderna e eficiente linguagem de programação Go. O roteiro abrange a sintaxe do Go, o modelo de concorrência e a biblioteca padrão. Desenvolva habilidades práticas através de exercícios práticos, não em vídeo, num ambiente interativo de Golang, focando-se na escrita de programas eficientes e escaláveis para programação concorrente e de sistemas.
 
-Explore até 0 desafios focados de Golang no LabEx. Cada desafio abre em um ambiente interativo para você praticar habilidades específicas.
+[Iniciar desafios no LabEx](https://labex.io/pt/learn/go)
 
-| Índice   | Nome   | Habilidades   | Dificuldade   | Prática   |
-|----------|--------|---------------|---------------|-----------|
+Explore até 50 desafios focados de Golang no LabEx. Cada desafio abre em um ambiente interativo para você praticar habilidades específicas.
 
-[Ver todos os desafios](https://labex.io/pt/learn/go).
+|   Índice | Nome                                                                                                                               | Dificuldade   | Prática                                                                                         |
+|----------|------------------------------------------------------------------------------------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------|
+|       01 | [Array Traversal Concepts](https://labex.io/pt/labs/go-array-traversal-concepts-149061)                                            | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/go-array-traversal-concepts-149061)                  |
+|       02 | [Conversão de Fahrenheit para Celsius](https://labex.io/pt/labs/go-fahrenheit-and-celsius-conversion-149060)                       | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/go-fahrenheit-and-celsius-conversion-149060)         |
+|       03 | [Projetando a Estrutura Student em Go](https://labex.io/pt/labs/go-design-student-struct-in-go-437202)                             | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/go-design-student-struct-in-go-437202)               |
+|       04 | [Escrever Benchmarks em Go](https://labex.io/pt/labs/write-go-benchmarks-705260)                                                   | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/write-go-benchmarks-705260)                          |
+|       05 | [Ordenação Dinâmica de Notas de Alunos](https://labex.io/pt/labs/go-sort-student-grades-dynamically-437203)                        | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/go-sort-student-grades-dynamically-437203)           |
+|       06 | [Adicionar logs de tempo de execução](https://labex.io/pt/labs/add-runtime-logging-705238)                                         | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/add-runtime-logging-705238)                          |
+|       07 | [Adicionar Testes Baseados em Tabela](https://labex.io/pt/labs/add-table-driven-tests-705239)                                      | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/add-table-driven-tests-705239)                       |
+|       08 | [Assertar Tipos de Evento](https://labex.io/pt/labs/assert-event-types-705240)                                                     | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/assert-event-types-705240)                           |
+|       09 | [Construir uma Pilha Genérica](https://labex.io/pt/labs/build-generic-stack-705241)                                                | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/build-generic-stack-705241)                          |
+|       10 | [Cancelar Trabalho com Context](https://labex.io/pt/labs/cancel-context-work-705242)                                               | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/cancel-context-work-705242)                          |
+|       11 | [Capturar Perfil de CPU](https://labex.io/pt/labs/capture-cpu-profile-705243)                                                      | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/capture-cpu-profile-705243)                          |
+|       12 | [Limpeza com Defer](https://labex.io/pt/labs/clean-up-with-defer-705244)                                                           | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/clean-up-with-defer-705244)                          |
+|       13 | [Seleção de Canal de Coordenadas](https://labex.io/pt/labs/coordinate-channel-select-705245)                                       | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/coordinate-channel-select-705245)                    |
+|       14 | [Copiar através de Interfaces de E/S](https://labex.io/pt/labs/copy-through-io-interfaces-705246)                                  | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/copy-through-io-interfaces-705246)                   |
+|       15 | [Definir Erros Personalizados](https://labex.io/pt/labs/define-custom-errors-705247)                                               | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/define-custom-errors-705247)                         |
+|       16 | [Pacote de Cache de Documentação](https://labex.io/pt/labs/document-cache-package-705248)                                          | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/document-cache-package-705248)                       |
+|       17 | [Incorporar Registro de Auditoria](https://labex.io/pt/labs/embed-audit-record-705249)                                             | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/embed-audit-record-705249)                           |
+|       18 | [Corrigir Race Condition no Contador](https://labex.io/pt/labs/fix-counter-race-705250)                                            | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/fix-counter-race-705250)                             |
+|       19 | [Formatar Código-Fonte Go](https://labex.io/pt/labs/format-go-source-705251)                                                       | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/format-go-source-705251)                             |
+|       20 | [Inspecionar Valores de Interface](https://labex.io/pt/labs/inspect-interface-values-705252)                                       | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/inspect-interface-values-705252)                     |
+|       21 | [Analisar URL de Callback](https://labex.io/pt/labs/parse-callback-url-705253)                                                     | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/parse-callback-url-705253)                           |
+|       22 | [Analisar Argumentos de Comando](https://labex.io/pt/labs/parse-command-arguments-705254)                                          | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/parse-command-arguments-705254)                      |
+|       23 | [Retornar Valores de Erro](https://labex.io/pt/labs/return-error-values-705255)                                                    | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/return-error-values-705255)                          |
+|       24 | [Executar Comando de Subprocesso](https://labex.io/pt/labs/run-subprocess-command-705256)                                          | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/run-subprocess-command-705256)                       |
+|       25 | [Servir um Endpoint de Saúde](https://labex.io/pt/labs/serve-health-endpoint-705257)                                               | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/serve-health-endpoint-705257)                        |
+|       26 | [Configurar Timeouts de Rede](https://labex.io/pt/labs/set-network-timeouts-705258)                                                | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/set-network-timeouts-705258)                         |
+|       27 | [Processar Strings de Registro de Usuário](https://labex.io/pt/labs/go-process-user-registration-strings-436083)                   | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/go-process-user-registration-strings-436083)         |
+|       28 | [Cache Request Execution Results](https://labex.io/pt/labs/go-cache-request-execution-results-301255)                              | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/go-cache-request-execution-results-301255)           |
+|       29 | [Implement JSON Comment Interpreter](https://labex.io/pt/labs/go-implement-json-comment-interpreter-301257)                        | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/go-implement-json-comment-interpreter-301257)        |
+|       30 | [Transparent Modification of HTTP Requests](https://labex.io/pt/labs/go-transparent-modification-of-http-requests-301259)          | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/go-transparent-modification-of-http-requests-301259) |
+|       31 | [What Day Is It Today?](https://labex.io/pt/labs/go-what-day-is-it-today-301261)                                                   | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/go-what-day-is-it-today-301261)                      |
+|       32 | [Do Básico às Builds de Estágios Múltiplos](https://labex.io/pt/labs/docker-from-basics-to-multi-stage-builds-389193)              | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/docker-from-basics-to-multi-stage-builds-389193)     |
+|       33 | [Crie uma Saudação Personalizada em Go](https://labex.io/pt/labs/go-craft-a-personalized-go-greeting-435633)                       | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/go-craft-a-personalized-go-greeting-435633)          |
+|       34 | [Construir um Projeto Go Modular](https://labex.io/pt/labs/go-build-a-modular-go-project-435640)                                   | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/go-build-a-modular-go-project-435640)                |
+|       35 | [Construir um Pacote de Utilidades Matemáticas](https://labex.io/pt/labs/go-build-a-math-utility-package-435676)                   | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/go-build-a-math-utility-package-435676)              |
+|       36 | [Criação de Variáveis para Inventário de Livros](https://labex.io/pt/labs/go-craft-book-inventory-variables-435684)                | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/go-craft-book-inventory-variables-435684)            |
+|       37 | [Calcular o Preço com Desconto do Produto](https://labex.io/pt/labs/calculate-product-discount-price-435694)                       | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/calculate-product-discount-price-435694)             |
+|       38 | [Converter e Calcular Tipos Numéricos](https://labex.io/pt/labs/convert-and-calculate-numeric-types-435824)                        | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/convert-and-calculate-numeric-types-435824)          |
+|       39 | [Decodificar Emojis Unicode](https://labex.io/pt/labs/go-decode-unicode-emojis-435852)                                             | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/go-decode-unicode-emojis-435852)                     |
+|       40 | [Projetar Transformações Matemáticas Flexíveis](https://labex.io/pt/labs/go-design-flexible-math-transformations-437201)           | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/go-design-flexible-math-transformations-437201)      |
+|       41 | [Definir Constantes de Tamanho de Servidor](https://labex.io/pt/labs/go-define-server-size-constants-436400)                       | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/go-define-server-size-constants-436400)              |
+|       42 | [Classificar Tarefas com Lógica Condicional](https://labex.io/pt/labs/go-sort-tasks-with-conditional-logic-436418)                 | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/go-sort-tasks-with-conditional-logic-436418)         |
+|       43 | [Implementar Switch de Conselhos Meteorológicos](https://labex.io/pt/labs/go-implement-weather-advice-switch-436449)               | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/go-implement-weather-advice-switch-436449)           |
+|       44 | [Inverter String com Loop em Go](https://labex.io/pt/labs/go-reverse-string-with-go-loop-436520)                                   | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/go-reverse-string-with-go-loop-436520)               |
+|       45 | [Resolvendo a Complexidade de Loops Aninhados com Goto](https://labex.io/pt/labs/go-solve-nested-loop-complexity-with-goto-436529) | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/go-solve-nested-loop-complexity-with-goto-436529)    |
+|       46 | [Inicializar Array de Nomes de Funcionários](https://labex.io/pt/labs/go-initialize-employee-names-array-436643)                   | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/go-initialize-employee-names-array-436643)           |
+|       47 | [Projete um Rastreador de Notas de Alunos](https://labex.io/pt/labs/go-design-a-student-grade-tracker-436649)                      | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/go-design-a-student-grade-tracker-436649)            |
+|       48 | [Desafio de Filtro de Logs com Slices](https://labex.io/pt/labs/go-slice-log-filter-challenge-436686)                              | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/go-slice-log-filter-challenge-436686)                |
+|       49 | [Gerenciar Notas de Alunos com Go Maps](https://labex.io/pt/labs/go-manage-student-grades-with-go-maps-436735)                     | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/go-manage-student-grades-with-go-maps-436735)        |
+|       50 | [Construir um Pipeline de Dados Simples com Canais](https://labex.io/pt/labs/go-build-a-simple-channel-data-pipeline-437199)       | Avançado      | [Iniciar Desafio](https://labex.io/pt/labs/go-build-a-simple-channel-data-pipeline-437199)      |
 
-## Mais
+[Ver mais no LabEx](https://labex.io/pt/learn/go)
 
-- 🔗 [Saiba mais sobre Golang no LabEx](https://labex.io/pt/learn/go)
-- 🔗 [Explore mais projetos de programação](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Explore cursos de programação](https://github.com/labex-labs/awesome-programming-courses)
+## About LabEx
+
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
